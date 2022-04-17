@@ -1,3 +1,5 @@
 # Table of contents
 
-* [ASSESSMENT 1 PROPOSAL](README.md)
+* [Requirements](README.md)
+* [Initial design](initial-design.md)
+* [Consultation and improvements](consultation-and-improvements.md)
