@@ -6,6 +6,10 @@ An possible idea of application given by Pia is about galleries. The warning sys
 
 ![Application for gallerirs.](<.gitbook/assets/application for gallery.jpg>)
 
-So I changed my system to a simpler one. My own application was an alarm waking me up in the morning. The input are the IR trasmitter\&receiver detecting movements from human. The output are the buzzer generating alarm and LCD matrix with text on it.
+So I changed my system to a simpler one. My own application was an alarm waking me up in the morning. The input are the IR trasmitter\&receiver detecting movements from human. The output are the buzzer generating alarm and LCD matrix with related text on it.
 
 Detailed design and implementation can be found in the Assessment 1 Documentation & Reflection.
+
+{% content-ref url="https://app.gitbook.com/s/Njqjz1sKYIzluAtGbaBj/" %}
+[Assessment 1 Documentation & Reflection](https://app.gitbook.com/s/Njqjz1sKYIzluAtGbaBj/)
+{% endcontent-ref %}
