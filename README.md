@@ -1,5 +1,6 @@
 ---
 description: >-
+  available at
   https://programsandcourses.anu.edu.au/course/DESN2010/First%20Semester/4499#assessmenttask-1
 ---
 
@@ -11,8 +12,8 @@ So far we have learned how physical computing can be understood as a series of a
 
 ## criterion 1
 
-Create designed objects and experiences that incorporate environmental, behavioural and material factors
+Create designed objects and experiences that incorporate environmental, behavioural and material factors.
 
 ## criterion 2
 
-Navigate and critically interpret physical computing technologies, discourses and practices and apply research to your creative practice
+Navigate and critically interpret physical computing technologies, discourses and practices and apply research to your creative practice.
